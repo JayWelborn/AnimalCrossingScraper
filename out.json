@@ -1,0 +1,5662 @@
+{
+  "Bugs": {
+    "Northern": {
+      "Agrias butterfly": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "3000",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Ant": {
+        "location": "On rotten food",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "80",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Atlas moth": {
+        "location": "On Trees",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "3000",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Bagworm": {
+        "location": "Shaking Trees",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "600",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Banded dragonfly": {
+        "location": "Flying",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "4500",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Bell cricket": {
+        "location": "On the Ground",
+        "months": [
+          "Sep",
+          "Oct"
+        ],
+        "price": "430",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Blue weevil beetle": {
+        "location": "On Trees (Coconut?)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "800",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Brown cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "250",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Centipede": {
+        "location": "Hitting Rocks",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "time_string": "4 PM - 11 PM",
+        "times": [
+          16,
+          23
+        ]
+      },
+      "Cicada shell": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Citrus long-horned beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "350",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Common bluebottle": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "300",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Common butterfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "160",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Cricket": {
+        "location": "On the Ground",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "130",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Cyclommatus stag": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Damselfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Nov",
+          "Dec"
+        ],
+        "price": "500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Darner dragonfly": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "230",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Diving beetle": {
+        "location": "On Ponds and Rivers",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "800",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Drone beetle": {
+        "location": "On Trees",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "200",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Dung beetle": {
+        "location": "On the Ground (rolling snowballs)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Dec"
+        ],
+        "price": "3000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Earth-boring dung beetle": {
+        "location": "On the Ground",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "300",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Emperor butterfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Dec"
+        ],
+        "price": "4000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Evening cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "550",
+        "time_string": "4 AM - 8 AM & 4 PM - 7 PM",
+        "times": [
+          4,
+          8,
+          16,
+          19
+        ]
+      },
+      "Firefly": {
+        "location": "Flying",
+        "months": [
+          "Jun"
+        ],
+        "price": "300",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Flea": {
+        "location": "Villager's Heads",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "70",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Fly": {
+        "location": "On Trash Items",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "60",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Giant cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "500",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Giant stag": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10000",
+        "time_string": "11 PM - 8 AM",
+        "times": [
+          23,
+          8
+        ]
+      },
+      "Giant water bug": {
+        "location": "On Ponds and Rivers",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "2000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Giraffe stag": {
+        "location": "On Trees (Coconut?)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "12000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Golden stag": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "12000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Goliath beetle": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Grasshopper": {
+        "location": "On the Ground",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "160",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Great purple emperor": {
+        "location": "Flying",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "3000",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Hermit crab": {
+        "location": "Beach disguised as Shells",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Honeybee": {
+        "location": "Flying",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul"
+        ],
+        "price": "200",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Horned atlas": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Horned dynastid": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "1350",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Horned elephant": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Horned hercules": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "12000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Jewel beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "2400",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Ladybug": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Oct"
+        ],
+        "price": "200",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Long locust": {
+        "location": "On the Ground",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "200",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Madagascan sunset moth": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "2500",
+        "time_string": "8 AM - 4 PM",
+        "times": [
+          8,
+          16
+        ]
+      },
+      "Man-faced stink bug": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "1000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Mantis": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "430",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Migratory locust": {
+        "location": "On the Ground",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "600",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Miyama stag": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "1000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Mole cricket": {
+        "location": "Underground",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Nov",
+          "Dec"
+        ],
+        "price": "500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Monarch butterfly": {
+        "location": "Flying",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "140",
+        "time_string": "4 AM - 5 PM",
+        "times": [
+          4,
+          17
+        ]
+      },
+      "Mosquito": {
+        "location": "Flying",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "130",
+        "time_string": "5 PM - 4 AM",
+        "times": [
+          17,
+          4
+        ]
+      },
+      "Moth": {
+        "location": "Flying by Light",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "130",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Orchid mantis": {
+        "location": "On Flowers (White)",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "2400",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Paper kite butterfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1000",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Peacock butterfly": {
+        "location": "Flying by Hybrid Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun"
+        ],
+        "price": "2500",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Pill bug": {
+        "location": "Hitting Rocks",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "250",
+        "time_string": "11 PM - 4 PM",
+        "times": [
+          23,
+          16
+        ]
+      },
+      "Pondskater": {
+        "location": "On Ponds and Rivers",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "130",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Queen Alexandra's birdwing": {
+        "location": "Flying",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "4000",
+        "time_string": "8 AM - 4 PM",
+        "times": [
+          8,
+          16
+        ]
+      },
+      "Rainbow stag": {
+        "location": "On Trees",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "6000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Rajah Brooke's birdwing": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Dec"
+        ],
+        "price": "2500",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Red dragonfly": {
+        "location": "Flying",
+        "months": [
+          "Sep",
+          "Oct"
+        ],
+        "price": "180",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Rice grasshopper": {
+        "location": "On the Ground",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "160",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Robust cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "300",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Rosalia batesi beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "3000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Saw stag": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "2000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Scarab beetle": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10000",
+        "time_string": "11 PM - 8 AM",
+        "times": [
+          23,
+          8
+        ]
+      },
+      "Scorpion": {
+        "location": "On the Ground",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "8000",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Snail": {
+        "location": "On Rocks (Rain)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "250",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Spider": {
+        "location": "Shaking Trees",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "600",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Stinkbug": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "120",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tarantula": {
+        "location": "On the Ground",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Nov",
+          "Dec"
+        ],
+        "price": "8000",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Tiger beetle": {
+        "location": "On the Ground",
+        "months": [
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "1500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tiger butterfly": {
+        "location": "Flying",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "240",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Violin beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "450",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Walker cicada": {
+        "location": "On Trees",
+        "months": [
+          "Aug",
+          "Sep"
+        ],
+        "price": "400",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Walking leaf": {
+        "location": "Under Trees Disguised as Leafs",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "600",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Walking stick": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "600",
+        "time_string": "4 AM - 8 AM & 5 PM - 7 PM",
+        "times": [
+          4,
+          8,
+          17,
+          19
+        ]
+      },
+      "Wasp": {
+        "location": "Shaking Trees",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "2500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Wharf roach": {
+        "location": "On Beach Rocks",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "200",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Yellow butterfly": {
+        "location": "Flying",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct"
+        ],
+        "price": "160",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      }
+    },
+    "Southern": {
+      "Agrias butterfly": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "3000",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Ant": {
+        "location": "On rotten food",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "80",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Atlas moth": {
+        "location": "On Trees",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "3000",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Bagworm": {
+        "location": "Shaking Trees",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "600",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Banded dragonfly": {
+        "location": "Flying",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "4500",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Bell cricket": {
+        "location": "On the Ground",
+        "months": [
+          "Sep",
+          "Oct"
+        ],
+        "price": "430",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Blue weevil beetle": {
+        "location": "On Trees (Coconut?)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "800",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Brown cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "250",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Centipede": {
+        "location": "Hitting Rocks",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "time_string": "4 PM - 11 PM",
+        "times": [
+          16,
+          23
+        ]
+      },
+      "Cicada shell": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Citrus long-horned beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "350",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Common bluebottle": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "300",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Common butterfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "160",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Cricket": {
+        "location": "On the Ground",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "130",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Cyclommatus stag": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Damselfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Nov",
+          "Dec"
+        ],
+        "price": "500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Darner dragonfly": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "230",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Diving beetle": {
+        "location": "On Ponds and Rivers",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "800",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Drone beetle": {
+        "location": "On Trees",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "200",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Dung beetle": {
+        "location": "On the Ground (rolling snowballs)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Dec"
+        ],
+        "price": "3000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Earth-boring dung beetle": {
+        "location": "On the Ground",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "300",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Emperor butterfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Dec"
+        ],
+        "price": "4000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Evening cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "550",
+        "time_string": "4 AM - 8 AM & 4 PM - 7 PM",
+        "times": [
+          4,
+          8,
+          16,
+          19
+        ]
+      },
+      "Firefly": {
+        "location": "Flying",
+        "months": [
+          "Jun"
+        ],
+        "price": "300",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Flea": {
+        "location": "Villager's Heads",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "70",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Fly": {
+        "location": "On Trash Items",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "60",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Giant cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "500",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Giant stag": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10000",
+        "time_string": "11 PM - 8 AM",
+        "times": [
+          23,
+          8
+        ]
+      },
+      "Giant water bug": {
+        "location": "On Ponds and Rivers",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "2000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Giraffe stag": {
+        "location": "On Trees (Coconut?)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "12000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Golden stag": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "12000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Goliath beetle": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Grasshopper": {
+        "location": "On the Ground",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "160",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Great purple emperor": {
+        "location": "Flying",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "3000",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Hermit crab": {
+        "location": "Beach disguised as Shells",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Honeybee": {
+        "location": "Flying",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul"
+        ],
+        "price": "200",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Horned atlas": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Horned dynastid": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "1350",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Horned elephant": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "8000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Horned hercules": {
+        "location": "On Trees (Coconut)",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "12000",
+        "time_string": "5 PM - 8 AM",
+        "times": [
+          17,
+          8
+        ]
+      },
+      "Jewel beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "2400",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Ladybug": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Oct"
+        ],
+        "price": "200",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Long locust": {
+        "location": "On the Ground",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "200",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Madagascan sunset moth": {
+        "location": "Flying",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "2500",
+        "time_string": "8 AM - 4 PM",
+        "times": [
+          8,
+          16
+        ]
+      },
+      "Man-faced stink bug": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "1000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Mantis": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "430",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Migratory locust": {
+        "location": "On the Ground",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "600",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Miyama stag": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "1000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Mole cricket": {
+        "location": "Underground",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Nov",
+          "Dec"
+        ],
+        "price": "500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Monarch butterfly": {
+        "location": "Flying",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "140",
+        "time_string": "4 AM - 5 PM",
+        "times": [
+          4,
+          17
+        ]
+      },
+      "Mosquito": {
+        "location": "Flying",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "130",
+        "time_string": "5 PM - 4 AM",
+        "times": [
+          17,
+          4
+        ]
+      },
+      "Moth": {
+        "location": "Flying by Light",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "130",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Orchid mantis": {
+        "location": "On Flowers (White)",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "2400",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Paper kite butterfly": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1000",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Peacock butterfly": {
+        "location": "Flying by Hybrid Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun"
+        ],
+        "price": "2500",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Pill bug": {
+        "location": "Hitting Rocks",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "250",
+        "time_string": "11 PM - 4 PM",
+        "times": [
+          23,
+          16
+        ]
+      },
+      "Pondskater": {
+        "location": "On Ponds and Rivers",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "130",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Queen Alexandra's birdwing": {
+        "location": "Flying",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "4000",
+        "time_string": "8 AM - 4 PM",
+        "times": [
+          8,
+          16
+        ]
+      },
+      "Rainbow stag": {
+        "location": "On Trees",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "6000",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Rajah Brooke's birdwing": {
+        "location": "Flying",
+        "months": [
+          "Jan",
+          "Feb",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Dec"
+        ],
+        "price": "2500",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Red dragonfly": {
+        "location": "Flying",
+        "months": [
+          "Sep",
+          "Oct"
+        ],
+        "price": "180",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Rice grasshopper": {
+        "location": "On the Ground",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "160",
+        "time_string": "8 AM - 7 PM",
+        "times": [
+          8,
+          19
+        ]
+      },
+      "Robust cicada": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "300",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Rosalia batesi beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "3000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Saw stag": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "2000",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Scarab beetle": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10000",
+        "time_string": "11 PM - 8 AM",
+        "times": [
+          23,
+          8
+        ]
+      },
+      "Scorpion": {
+        "location": "On the Ground",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "8000",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Snail": {
+        "location": "On Rocks (Rain)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "250",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Spider": {
+        "location": "Shaking Trees",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "600",
+        "time_string": "7 PM - 8 AM",
+        "times": [
+          19,
+          8
+        ]
+      },
+      "Stinkbug": {
+        "location": "On Flowers",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "120",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tarantula": {
+        "location": "On the Ground",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Nov",
+          "Dec"
+        ],
+        "price": "8000",
+        "time_string": "7 PM - 4 AM",
+        "times": [
+          19,
+          4
+        ]
+      },
+      "Tiger beetle": {
+        "location": "On the Ground",
+        "months": [
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "1500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tiger butterfly": {
+        "location": "Flying",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "240",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      },
+      "Violin beetle": {
+        "location": "On Tree Stumps",
+        "months": [
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "450",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Walker cicada": {
+        "location": "On Trees",
+        "months": [
+          "Aug",
+          "Sep"
+        ],
+        "price": "400",
+        "time_string": "8 AM - 5 PM",
+        "times": [
+          8,
+          17
+        ]
+      },
+      "Walking leaf": {
+        "location": "Under Trees Disguised as Leafs",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "600",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Walking stick": {
+        "location": "On Trees",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "600",
+        "time_string": "4 AM - 8 AM & 5 PM - 7 PM",
+        "times": [
+          4,
+          8,
+          17,
+          19
+        ]
+      },
+      "Wasp": {
+        "location": "Shaking Trees",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "2500",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Wharf roach": {
+        "location": "On Beach Rocks",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "200",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Yellow butterfly": {
+        "location": "Flying",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct"
+        ],
+        "price": "160",
+        "time_string": "4 AM - 7 PM",
+        "times": [
+          4,
+          19
+        ]
+      }
+    }
+  },
+  "Fish": {
+    "Northern": {
+      "Anchovy": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "200",
+        "shadow_size": "2",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Angelfish": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "3000",
+        "shadow_size": "2",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Arapaima": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Arowana": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "10000",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Barred knifejaw": {
+        "location": "Sea",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "5000",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Barreleye": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "15000",
+        "shadow_size": "2",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Betta": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "2500",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Bitterling": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Nov",
+          "Dec"
+        ],
+        "price": "900",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Black bass": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "400",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Blowfish": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Nov",
+          "Dec"
+        ],
+        "price": "5000",
+        "shadow_size": "3",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Blue marlin": {
+        "location": "Pier",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Nov",
+          "Dec"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Bluegill": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "180",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Butterfly fish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1000",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Carp": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Catfish": {
+        "location": "Pond",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "800",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Char": {
+        "location": "River (Clifftop) Pond",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "3800",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Cherry salmon": {
+        "location": "River (Clifftop)",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "800",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Clown fish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "650",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Coelacanth": {
+        "location": "Sea (while raining)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "15000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Crawfish": {
+        "location": "Pond",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "200",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Crucian carp": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "160",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Dab": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Dace": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "240",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Dorado": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "15000",
+        "shadow_size": "5",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Football fish": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Nov",
+          "Dec"
+        ],
+        "price": "2500",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Freshwater goby": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "400",
+        "shadow_size": "2",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Frog": {
+        "location": "Pond",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "120",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Gar": {
+        "location": "Pond",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "6000",
+        "shadow_size": "5",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Giant snakehead": {
+        "location": "Pond",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "5500",
+        "shadow_size": "4",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Giant trevally": {
+        "location": "Pier",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "4500",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Golden trout": {
+        "location": "River (Clifftop)",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "15000",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Goldfish": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1300",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Great white shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "15000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Guppy": {
+        "location": "River",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "1300",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Hammerhead shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "8000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Horse mackerel": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "150",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Killifish": {
+        "location": "Pond",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "300",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "King salmon": {
+        "location": "River (Mouth)",
+        "months": [
+          "Sep"
+        ],
+        "price": "1800",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Koi": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "4000",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Loach": {
+        "location": "River",
+        "months": [
+          "Mar",
+          "Apr",
+          "May"
+        ],
+        "price": "400",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Mahi-mahi": {
+        "location": "Pier",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "6000",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Mitten crab": {
+        "location": "River",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "2000",
+        "shadow_size": "2",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Moray eel": {
+        "location": "Sea",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "2000",
+        "shadow_size": "Narrow",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Napoleonfish": {
+        "location": "Sea",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Neon tetra": {
+        "location": "River",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "500",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Nibble fish": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1500",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Oarfish": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Dec"
+        ],
+        "price": "9000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Ocean sunfish": {
+        "location": "Sea",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "4000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Olive flounder": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "800",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Pale chub": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "200",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Pike": {
+        "location": "River",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1800",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Piranha": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "2500",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM & 9 PM - 4 AM",
+        "times": [
+          9,
+          16,
+          21,
+          4
+        ]
+      },
+      "Pond smelt": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Dec"
+        ],
+        "price": "500",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Pop-eyed goldfish": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1300",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Puffer fish": {
+        "location": "Sea",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "250",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Rainbowfish": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "800",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Ranchu goldfish": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "4500",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Ray": {
+        "location": "Sea",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "3000",
+        "shadow_size": "5",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Red snapper": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "3000",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Ribbon eel": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "600",
+        "shadow_size": "Narrow",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Saddled bichir": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "4000",
+        "shadow_size": "4",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Salmon": {
+        "location": "River (Mouth)",
+        "months": [
+          "Sep"
+        ],
+        "price": "700",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Saw shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "12000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Sea bass": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "400",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Sea butterfly": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Dec"
+        ],
+        "price": "1000",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Sea horse": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "1100",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Snapping Turtle": {
+        "location": "River",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "5000",
+        "shadow_size": "4",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Soft-shelled turtle": {
+        "location": "River",
+        "months": [
+          "Aug",
+          "Sep"
+        ],
+        "price": "3750",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Squid": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Dec"
+        ],
+        "price": "500",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Stringfish": {
+        "location": "River (Clifftop)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Dec"
+        ],
+        "price": "15000",
+        "shadow_size": "5",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Sturgeon": {
+        "location": "River (Mouth)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Suckerfish": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1500",
+        "shadow_size": "4 (Fin)",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Surgeonfish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1000",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Sweetfish": {
+        "location": "River",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "900",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tadpole": {
+        "location": "Pond",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul"
+        ],
+        "price": "100",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tilapia": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "800",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tuna": {
+        "location": "Pier",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Nov",
+          "Dec"
+        ],
+        "price": "7000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Whale shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "13000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Yellow perch": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Zebra turkeyfish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "500",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      }
+    },
+    "Southern": {
+      "Anchovy": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "200",
+        "shadow_size": "2",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Angelfish": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "3000",
+        "shadow_size": "2",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Arapaima": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Arowana": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "10000",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Barred knifejaw": {
+        "location": "Sea",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "5000",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Barreleye": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "15000",
+        "shadow_size": "2",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Betta": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "2500",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Bitterling": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Nov",
+          "Dec"
+        ],
+        "price": "900",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Black bass": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "400",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Blowfish": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Nov",
+          "Dec"
+        ],
+        "price": "5000",
+        "shadow_size": "3",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Blue marlin": {
+        "location": "Pier",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Nov",
+          "Dec"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Bluegill": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "180",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Butterfly fish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1000",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Carp": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Catfish": {
+        "location": "Pond",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "800",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Char": {
+        "location": "River (Clifftop) Pond",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "3800",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Cherry salmon": {
+        "location": "River (Clifftop)",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "800",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Clown fish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "650",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Coelacanth": {
+        "location": "Sea (while raining)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "15000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Crawfish": {
+        "location": "Pond",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "200",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Crucian carp": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "160",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Dab": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Dace": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "240",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Dorado": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "15000",
+        "shadow_size": "5",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Football fish": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Nov",
+          "Dec"
+        ],
+        "price": "2500",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Freshwater goby": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "400",
+        "shadow_size": "2",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Frog": {
+        "location": "Pond",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "120",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Gar": {
+        "location": "Pond",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "6000",
+        "shadow_size": "5",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Giant snakehead": {
+        "location": "Pond",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "5500",
+        "shadow_size": "4",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Giant trevally": {
+        "location": "Pier",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "4500",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Golden trout": {
+        "location": "River (Clifftop)",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "15000",
+        "shadow_size": "3",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Goldfish": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1300",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Great white shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "15000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Guppy": {
+        "location": "River",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "1300",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Hammerhead shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "8000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Horse mackerel": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "150",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Killifish": {
+        "location": "Pond",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug"
+        ],
+        "price": "300",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "King salmon": {
+        "location": "River (Mouth)",
+        "months": [
+          "Sep"
+        ],
+        "price": "1800",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Koi": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "4000",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Loach": {
+        "location": "River",
+        "months": [
+          "Mar",
+          "Apr",
+          "May"
+        ],
+        "price": "400",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Mahi-mahi": {
+        "location": "Pier",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "6000",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Mitten crab": {
+        "location": "River",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "2000",
+        "shadow_size": "2",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Moray eel": {
+        "location": "Sea",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "2000",
+        "shadow_size": "Narrow",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Napoleonfish": {
+        "location": "Sea",
+        "months": [
+          "Jul",
+          "Aug"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Neon tetra": {
+        "location": "River",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "500",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Nibble fish": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1500",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Oarfish": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Dec"
+        ],
+        "price": "9000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Ocean sunfish": {
+        "location": "Sea",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "4000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Olive flounder": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "800",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Pale chub": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "200",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Pike": {
+        "location": "River",
+        "months": [
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1800",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Piranha": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "2500",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM & 9 PM - 4 AM",
+        "times": [
+          9,
+          16,
+          21,
+          4
+        ]
+      },
+      "Pond smelt": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Dec"
+        ],
+        "price": "500",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Pop-eyed goldfish": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "1300",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Puffer fish": {
+        "location": "Sea",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "250",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Rainbowfish": {
+        "location": "River",
+        "months": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "800",
+        "shadow_size": "1",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Ranchu goldfish": {
+        "location": "Pond",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "4500",
+        "shadow_size": "2",
+        "time_string": "9 AM - 4 PM",
+        "times": [
+          9,
+          16
+        ]
+      },
+      "Ray": {
+        "location": "Sea",
+        "months": [
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "3000",
+        "shadow_size": "5",
+        "time_string": "4 AM - 9 PM",
+        "times": [
+          4,
+          21
+        ]
+      },
+      "Red snapper": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "3000",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Ribbon eel": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "600",
+        "shadow_size": "Narrow",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Saddled bichir": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "4000",
+        "shadow_size": "4",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Salmon": {
+        "location": "River (Mouth)",
+        "months": [
+          "Sep"
+        ],
+        "price": "700",
+        "shadow_size": "4",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Saw shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "12000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Sea bass": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "400",
+        "shadow_size": "5",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Sea butterfly": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Dec"
+        ],
+        "price": "1000",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Sea horse": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "1100",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Snapping Turtle": {
+        "location": "River",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "5000",
+        "shadow_size": "4",
+        "time_string": "9 PM - 4 AM",
+        "times": [
+          21,
+          4
+        ]
+      },
+      "Soft-shelled turtle": {
+        "location": "River",
+        "months": [
+          "Aug",
+          "Sep"
+        ],
+        "price": "3750",
+        "shadow_size": "4",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Squid": {
+        "location": "Sea",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Dec"
+        ],
+        "price": "500",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Stringfish": {
+        "location": "River (Clifftop)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Dec"
+        ],
+        "price": "15000",
+        "shadow_size": "5",
+        "time_string": "4 PM - 9 AM",
+        "times": [
+          16,
+          9
+        ]
+      },
+      "Sturgeon": {
+        "location": "River (Mouth)",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "10000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Suckerfish": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1500",
+        "shadow_size": "4 (Fin)",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Surgeonfish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "1000",
+        "shadow_size": "2",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Sweetfish": {
+        "location": "River",
+        "months": [
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "900",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tadpole": {
+        "location": "Pond",
+        "months": [
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul"
+        ],
+        "price": "100",
+        "shadow_size": "1",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tilapia": {
+        "location": "River",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "price": "800",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Tuna": {
+        "location": "Pier",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "Nov",
+          "Dec"
+        ],
+        "price": "7000",
+        "shadow_size": "6",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Whale shark": {
+        "location": "Sea",
+        "months": [
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "price": "13000",
+        "shadow_size": "6 (Fin)",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Yellow perch": {
+        "location": "River",
+        "months": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Oct",
+          "Nov",
+          "Dec"
+        ],
+        "price": "300",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      },
+      "Zebra turkeyfish": {
+        "location": "Sea",
+        "months": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov"
+        ],
+        "price": "500",
+        "shadow_size": "3",
+        "time_string": "All day",
+        "times": [
+          0,
+          0
+        ]
+      }
+    }
+  }
+}
